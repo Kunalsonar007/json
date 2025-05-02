@@ -1,0 +1,42 @@
+[
+    {
+        "id": "7da0",
+        "name": "Kunal Sonar",
+        "email": "kunalwankhede958@gmail.com",
+        "phone": "8605905770",
+        "address": "Maharashtra",
+        "password": "1234"
+    },
+    {
+        "id": "b851",
+        "name": "Shivansh Tripathi",
+        "email": "Shivansh@gmail.com",
+        "phone": "7017709801",
+        "address": "Hoshangabad, Mumbai",
+        "password": "1234"
+    },
+    {
+        "id": "fe37",
+        "name": "Abhishek Sonkar",
+        "email": "Abhishek@gmail.com",
+        "phone": "7017709802",
+        "address": "Basti, Pune",
+        "password": "1234"
+    },
+    {
+        "id": "f18a",
+        "name": "Gagan Jha",
+        "email": "Gagan@gmail.com",
+        "phone": "7017709803",
+        "address": "Talbehat, Pune",
+        "password": "1234"
+    },
+    {
+        "id": "c024",
+        "name": "Vishaka Chaudhari",
+        "email": "vishaka1033@gmail.com",
+        "phone": "7017709865",
+        "address": "Pune",
+        "password": "1234"
+    }
+]
